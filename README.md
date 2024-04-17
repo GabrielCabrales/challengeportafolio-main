@@ -24,7 +24,7 @@ Clona este repositorio en tu máquina local usando Git:
 
 Copia el codigo code
 
-git clone https://github.com/
+git clone https://github.com/GabrielCabrales/challengeportafolio-main
 
 Abre index.html 💻 en tu navegador web para visualizar el sitio.
 ¡Explora y disfruta!
